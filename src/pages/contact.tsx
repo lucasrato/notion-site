@@ -8,7 +8,7 @@ import GitHub from '../components/svgs/github'
 import Twitter from '../components/svgs/twitter'
 import Envelope from '../components/svgs/envelope'
 import LinkedIn from '../components/svgs/linkedin'
-/*
+
  const contacts = [
   {
     Comp: Twitter,
@@ -30,7 +30,7 @@ import LinkedIn from '../components/svgs/linkedin'
     alt: 'envelope icon',
     link: 'mailto:jj@jjsweb.site?subject=Notion Blog',
   },
-]*/
+]
 
 export default () => (
   <>
