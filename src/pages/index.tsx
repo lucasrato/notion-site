@@ -17,14 +17,7 @@ export default () => (
       />
       <h1>Tentando usar Notion como site</h1>
       <h2>
-        Carai Wendel, me da um help ai'{' '}
-        <ExtLink
-          href="https://github.com/vercel/next.js/issues/9524"
-          className="dotted"
-          style={{ color: 'inherit' }}
-        >
-          SSG
-        </ExtLink>
+        Carai Wendel, me da um help ai
       </h2>
 
       <Features />
